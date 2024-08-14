@@ -1,0 +1,81 @@
+site_name: BASEMODEL
+site_url: https://matgu.github.io/basemodel/
+repo_url: https://github.com/matgu/basemodel
+
+docs_dir: docs
+site_dir: site
+
+nav:
+  - Home: index.md
+  - Services: services.md  
+  - About: about.md
+  #- Python: python.md
+  #- SQL: sql.md
+  #- Components: components.md
+  - BIM Execution Plan: BEP.md
+
+theme:
+  name: material
+  custom_dir: overrides
+  logo: 'images/favicon.png'
+  favicon: 'images/favicon1.ico'
+  palette:
+    primary: 'cyan'
+    accent: 'pink'
+    scheme: slate
+  highlightjs: true
+  highlightjs_languages:
+    - sql
+    - python
+
+markdown_extensions:
+  - codehilite
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.emoji
+
+plugins:
+  - search
+  - i18n:
+      languages:
+        - locale: sv
+          name: Swedish
+          build: true
+          default: true
+          nav_translations:
+            Home: Hem
+            Services: Våra tjänster
+            About: Om oss
+            Python: Python
+            SQL: SQL
+            Components: Komponenter
+            BIM Execution Plan: "Genomförande plan BIM/VDC"
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            Home: Home
+            Services: Services
+            About: About
+            Python: Python
+            SQL: SQL
+            Components: Components
+            BIM Execution Plan: "BIM Execution Plan"
+
+
+
+
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/highlight.min.js
+  - js/highlight-init.js
+  - js/switch_mode.js
+  - https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js
+  - js/vue-init.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.13.8/mermaid.min.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/default.min.css
+  - css/extra.css
+
+

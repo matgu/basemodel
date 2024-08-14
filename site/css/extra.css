@@ -1,0 +1,32 @@
+/* Override max-width to make the content full width */
+.md-container {
+    max-width: 100%;
+    width: 100%;
+}
+
+.md-main__inner {
+    max-width: 100%;
+    width: 100%;
+}
+
+/* Adjust padding for full-width layout */
+.md-content {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Ensure tables and other content fit within the full-width layout */
+.md-typeset table {
+    width: 100%;
+}
+
+/* Optional: Make the header and footer full width */
+.md-header, .md-footer {
+    max-width: 100%;
+    width: 100%;
+}
+
+
+
+
+
