@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://matgu.github.io/basemodel/BEP/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/BEP/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/BEP/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/about/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/about/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/python/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/python/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/python/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/services/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/services/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/sql/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/sql/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/sql/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/en/BEP/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/BEP/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/BEP/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/en/about/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/about/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/about/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/en/components/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/components/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/en/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/en/python/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/python/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/python/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/en/services/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/services/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/services/"/>
+    </url>
+    <url>
+        <loc>https://matgu.github.io/basemodel/en/sql/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/sql/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/sql/"/>
+    </url>
+</urlset>
