@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://matgu.github.io/basemodel/BEP/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>NoneBEP/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/BEP/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/BEP/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="NoneBEP/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/BEP/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/about/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Noneabout/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/about/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/about/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="Noneabout/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/about/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>None./</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/python/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Nonepython/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/python/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/python/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="Nonepython/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/python/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/services/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Noneservices/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/services/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/services/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="Noneservices/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/services/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/sql/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Nonesql/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/sql/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/sql/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="Nonesql/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/sql/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/en/BEP/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Noneen/BEP/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/BEP/"/>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/BEP/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/BEP/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="NoneBEP/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/en/about/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Noneen/about/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/about/"/>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/about/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="Noneabout/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/en/components/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Noneen/components/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/components/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/components/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/en/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Noneen/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/"/>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="None"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/en/python/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Noneen/python/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/python/"/>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/python/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/python/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="Nonepython/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/en/services/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Noneen/services/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/services/"/>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/services/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="Noneservices/"/>
     </url>
     <url>
-        <loc>https://matgu.github.io/basemodel/en/sql/</loc>
-        <lastmod>2024-08-14</lastmod>
+        <loc>Noneen/sql/</loc>
+        <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://matgu.github.io/basemodel/en/sql/"/>
-        <xhtml:link rel="alternate" hreflang="sv" href="https://matgu.github.io/basemodel/sql/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/sql/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="Nonesql/"/>
     </url>
 </urlset>

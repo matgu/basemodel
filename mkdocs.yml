@@ -1,10 +1,10 @@
 site_name: BASEMODEL
-site_url: https://matgu.github.io/basemodel/
-repo_url: https://github.com/matgu/basemodel
+#site_url: https://matgu.github.io/basemodel/
+#repo_url: https://github.com/matgu/basemodel
 
 docs_dir: docs
 site_dir: site
-
+ 
 nav:
   - Home: index.md
   - Services: services.md  
@@ -74,8 +74,12 @@ extra_javascript:
   - js/vue-init.js
   - https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.13.8/mermaid.min.js
 
+
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/default.min.css
   - css/extra.css
+
+
+
 
 

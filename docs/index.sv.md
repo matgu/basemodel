@@ -18,8 +18,7 @@ Mätbart, effektivt och hållbart.<br>
 
 Email: mattias.gunnarsson@basemodel.se
 
-Telefon: +46 739 88 89 10
-
+Telefon: 073 988 89 10
 
 
 

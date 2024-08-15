@@ -27,6 +27,8 @@
 }
 
 
-
+.md-header-nav__button.md-logo {
+    display: none;
+}
 
 
