@@ -73,7 +73,14 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js
   - js/vue-init.js
   - https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.13.8/mermaid.min.js
-
+  - https://www.googletagmanager.com/gtag/js?id=G-MRW4GS3ZEP
+  - |
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-MRW4GS3ZEP');
+    </script>
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/default.min.css
